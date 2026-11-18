@@ -49,7 +49,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/RodrigoTemporal/BibliotecaUnifor">Biblioteca UNIFOR</a></h3>
+      <h3>📱 <a href="https://github.com/SamuelL0pes-dev/BibliotecaUnifor">Biblioteca UNIFOR</a></h3>
       <p>Aplicativo Android nativo para simulação de acesso ao acervo e gerenciamento/reserva de salas de estudo individuais da biblioteca universitária.</p>
       <ul>
         <li><strong>Mobile:</strong> Desenvolvimento nativo em Kotlin e layouts XML modulares.</li>
