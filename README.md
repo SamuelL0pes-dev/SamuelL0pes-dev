@@ -35,9 +35,9 @@
       <h3>🏛️ <a href="https://github.com/SamuelL0pes-dev/nubex-preview">Portal NUBEX</a></h3>
       <p>Plataforma institucional do Núcleo de Biologia Experimental da UNIFOR construída em arquitetura de microsserviços.</p>
       <ul>
-        <li><strong>Back-end:</strong> Microsserviços em Java 17, Spring Boot e Maven.</li>
+        <li><strong>Back-end:</strong> Microsserviços em Java 17 e Spring Boot.</li>
         <li><strong>Front-end:</strong> React 19, TypeScript e Vite.</li>
-        <li><strong>Dados & DevOps:</strong> PostgreSQL 16 com migrações Flyway, autenticação segura via JWT com pares de chaves RSA assimétricas, containerização com Docker Compose e pipelines de CI com GitHub Actions.</li>
+        <li><strong>Dados & DevOps:</strong> Banco de dados PostgreSQL 16, containerização com Docker Compose e pipelines de CI com GitHub Actions.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -102,9 +102,6 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Flyway-CC0202?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
-  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
 #### 📱 Front-end & Mobile
@@ -135,11 +132,9 @@
   <tr>
     <td valign="top">
       • <strong>Java 17</strong> &amp; <strong>Spring Boot</strong><br/>
-      • Apache Maven<br/>
       • <strong>PostgreSQL 16</strong> &amp; MySQL<br/>
-      • Migrações Flyway<br/>
-      • REST APIs &amp; JWT assimétrico (RSA)<br/>
-      • Modelagem relacional
+      • Desenvolvimento de REST APIs<br/>
+      • Modelagem relacional e consultas SQL
     </td>
     <td valign="top">
       • <strong>React 19</strong> &amp; JavaScript (ES6+)<br/>
