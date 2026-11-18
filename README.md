@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 **Formação:** Bacharelado em Ciência da Computação pela **Universidade de Fortaleza (UNIFOR)** (conclusão prevista para 2028).
+- 🎓 **Formação:** Estudante do 4º semestre de Ciência da Computação pela **Universidade de Fortaleza (UNIFOR)** (conclusão prevista para 2028).
 - 🔬 **Pesquisa Acadêmica:** Pesquisador Auxiliar no **Synapse Lab (UNIFOR)**, investigando vulnerabilidades e mecanismos de proteção em segurança robótica, além do desenvolvimento de protótipos web e mobile.
 - 🎯 **Objetivo:** Estágio em desenvolvimento de software / engenharia de soluções.
 - 🌐 **Idiomas:** Inglês avançado (**C1**), com leitura técnica aprofundada, escrita profissional e conversação fluida.
