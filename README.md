@@ -84,38 +84,78 @@
 
 ---
 
-### 🛠️ Conhecimentos Técnicos
+### 🛠️ Conhecimentos Técnicos & Linguagens
+
+#### 💻 Linguagens de Programação
+<p>
+  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python_(Fundamentos)-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### ⚙️ Back-end & Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Flyway-CC0202?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
+
+#### 📱 Front-end & Mobile
+<p>
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
+
+#### 🚀 DevOps, Nuvem & Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Hosting" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 <table>
   <tr>
     <td width="33%"><strong>Back-end & Banco de Dados</strong></td>
     <td width="33%"><strong>Front-end & Mobile</strong></td>
-    <td width="34%"><strong>DevOps, Ferramentas & Práticas</strong></td>
+    <td width="34%"><strong>DevOps, Práticas & Idiomas</strong></td>
   </tr>
   <tr>
     <td valign="top">
-      • Java 17<br/>
-      • Spring Boot<br/>
-      • Maven<br/>
-      • PostgreSQL & MySQL<br/>
-      • Flyway (Database Migrations)<br/>
-      • REST APIs & JWT (RSA)
+      • <strong>Java 17</strong> &amp; <strong>Spring Boot</strong><br/>
+      • Apache Maven<br/>
+      • <strong>PostgreSQL 16</strong> &amp; MySQL<br/>
+      • Migrações Flyway<br/>
+      • REST APIs &amp; JWT assimétrico (RSA)<br/>
+      • Modelagem relacional
     </td>
     <td valign="top">
-      • React 19 & JavaScript (ES6+)<br/>
-      • TypeScript<br/>
-      • Vite<br/>
-      • HTML5 & CSS3 moderno<br/>
-      • Android Nativo (Kotlin & XML)<br/>
-      • Cloud Firestore
+      • <strong>React 19</strong> &amp; JavaScript (ES6+)<br/>
+      • <strong>TypeScript</strong> &amp; Vite<br/>
+      • HTML5 &amp; CSS3 moderno<br/>
+      • <strong>Android nativo</strong> (Kotlin &amp; XML)<br/>
+      • Cloud Firestore em tempo real<br/>
+      • Framer Motion &amp; UX responsivo
     </td>
     <td valign="top">
-      • Docker & Docker Compose<br/>
-      • Git & GitHub<br/>
-      • GitHub Actions (CI/CD)<br/>
-      • Conventional Commits & PRs<br/>
-      • Scrum / Kanban<br/>
-      • Figma
+      • <strong>Docker</strong> &amp; Docker Compose<br/>
+      • Git &amp; GitHub (Conventional Commits, PRs)<br/>
+      • GitHub Actions (CI/CD pipelines)<br/>
+      • Metodologias Ágeis (Scrum / Kanban)<br/>
+      • Prototipagem com Figma<br/>
+      • <strong>Inglês Avançado (C1)</strong>
     </td>
   </tr>
 </table>
