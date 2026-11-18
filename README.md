@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://github.com/SamuelL0pes-dev/nubex-preview">Portal NUBEX</a></h3>
+      <h3>🏛️ <a href="https://github.com/SamuelL0pes-dev/nubex-preview">Portal NUBEX</a> <br/> <sub><code>🚧 Em desenvolvimento (Versão Preview)</code></sub></h3>
       <p>Plataforma institucional do Núcleo de Biologia Experimental da UNIFOR construída em arquitetura de microsserviços.</p>
       <ul>
         <li><strong>Back-end:</strong> Microsserviços em Java 17 e Spring Boot.</li>
